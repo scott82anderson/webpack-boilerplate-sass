@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    height: 100vh;
+
+    .start {
+        background: white;
+        padding: 2vw 4vw;
+        border-radius: 2%;
+    }
+}
